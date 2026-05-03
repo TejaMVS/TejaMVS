@@ -1,29 +1,20 @@
 <div align="center">
 
-<img src="./assets/professional-header.svg" alt="Teja MVS - DevOps & Cloud Leader" width="320" />
+<img src="./assets/professional-header.svg" alt="Teja MVS - Technical Team Lead" />
 
+<br />
 
-<h1>DevOps & Cloud Leader</h1>
+<a href="mailto:venkatasuryamaddula@gmail.com">
+  <img src="https://img.shields.io/badge/Email-venkatasuryamaddula%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/tejamvs/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Teja%20MVS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://bit.ly/3ecN8l5" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-DevOps%20Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
-<p><strong>Teja MVS</strong> delivers scalable platforms, reliable delivery pipelines, and modern engineering systems.</p>
-
-<p>Cloud architect, automation innovator, and mentor for high-performing engineering teams.</p>
-
-<p>
-  <a href="https://github.com/devops-surya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/tejamvs/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://bit.ly/3ecN8l5" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:venkatasuryamaddula@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
+<br />
 <br />
 
 <img src="https://img.shields.io/badge/System%20Design-2563EB?style=flat-square" alt="System Design" />
@@ -116,20 +107,9 @@ I enjoy designing scalable systems, building reliable DevOps platforms, simplify
 
 I enjoy mentoring engineers, tutoring DevOps learners, and helping teams design better systems, stronger platforms, and smoother delivery pipelines.
 
-<p align="center">
-  <a href="https://github.com/devops-surya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/tejamvs/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://bit.ly/3ecN8l5" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:venkatasuryamaddula@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- **Email:** venkatasuryamaddula@gmail.com
+- **LinkedIn:** [Teja MVS](https://www.linkedin.com/in/tejamvs/)
+- **YouTube:** [DevOps Learning](https://bit.ly/3ecN8l5)
 
 <div align="center">
 
