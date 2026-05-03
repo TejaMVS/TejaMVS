@@ -1,9 +1,18 @@
-<h1 align="center">Hi, I'm Surya</h1>
-<h3 align="center">DevOps & Cloud Lead | Instructor | Platform Engineering Enthusiast</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:111827,45:2563EB,100:14B8A6&text=Teja%20MVS&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Technical%20Team%20Lead%20%7C%20System%20Design%20%7C%20DevOps%20Architecture&descAlignY=57&descSize=18" alt="Teja MVS - Technical Team Lead" />
+
+<h2>Technical Team Lead | 10+ Years Experience</h2>
+
+<h3>DevOps Architecture | Cloud Platforms | System Design | Mentor / Tutor</h3>
+
+<p>
+  I love designing systems, building scalable architecture, mentoring engineers, and creating reliable DevOps platforms.
+</p>
+
+<p>
   <a href="mailto:venkatasuryamaddula@gmail.com">
-    <img src="https://img.shields.io/badge/Email-venkatasuryamaddula%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-venkatasuryamaddula%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/tejamvs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Teja%20MVS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,27 +22,66 @@
   </a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Architecture-7C3AED?style=flat-square" alt="System Design and Architecture" />
+  <img src="https://img.shields.io/badge/Passion-Mentoring%20%26%20Tutoring-F97316?style=flat-square" alt="Mentoring and Tutoring" />
+  <img src="https://img.shields.io/badge/Strength-DevOps%20Transformation-22C55E?style=flat-square" alt="DevOps Transformation" />
+  <img src="https://img.shields.io/badge/Mindset-Automation%20First-06B6D4?style=flat-square" alt="Automation First" />
+</p>
+
+</div>
+
+---
+
+## Profile Highlights
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Technical Leadership</h3>
+      <p>Leading teams across DevOps, Cloud, CI/CD, infrastructure automation, platform engineering, and production reliability.</p>
+    </td>
+    <td width="50%">
+      <h3>Mentor / Tutor</h3>
+      <p>Helping students and engineers learn DevOps through real-world examples, hands-on workflows, and practical project guidance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>System Design</h3>
+      <p>I love designing systems, improving architecture, and creating scalable, secure, maintainable engineering platforms.</p>
+    </td>
+    <td width="50%">
+      <h3>Automation Mindset</h3>
+      <p>Turning manual release, infrastructure, and operations processes into repeatable, reliable, automated workflows.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## About Me
 
-I am a DevOps and Cloud professional from India, focused on building reliable delivery pipelines, cloud infrastructure, automation-first workflows, and practical learning experiences for engineering teams.
+I am a DevOps and Cloud professional from India with 10+ years of experience in technical leadership, platform engineering, cloud infrastructure, CI/CD automation, and mentoring.
 
-- Leading and mentoring teams around DevOps, CI/CD, cloud, containers, and infrastructure automation
-- Designing scalable, secure, and repeatable deployment practices
-- Helping engineers move from manual operations to automated platform workflows
-- Always learning and sharing modern cloud-native technologies
-- Open to discussions on DevOps, Cloud, Kubernetes, CI/CD, Infrastructure as Code, and monitoring
+- Technical Team Lead with strong ownership of delivery platforms and engineering enablement
+- Mentor and tutor for DevOps, Cloud, Kubernetes, CI/CD, automation, and infrastructure practices
+- Passionate about system design, architecture design, scalable platforms, and clean operational models
+- Focused on secure, repeatable, production-ready infrastructure and deployment workflows
+- Open to discussions on DevOps, Cloud, Kubernetes, CI/CD, Infrastructure as Code, monitoring, and architecture
 
 ---
 
 ## Leadership Focus
 
-- **Platform Engineering:** Developer-friendly tooling, reusable pipelines, and self-service infrastructure
-- **DevOps Transformation:** Process maturity, automation strategy, release governance, and team enablement
-- **Cloud & Infrastructure:** Scalable cloud architecture, provisioning, configuration, and operational excellence
-- **Observability:** Monitoring, alerting, metrics, dashboards, and service reliability practices
-- **Training & Mentorship:** Practical DevOps and cloud learning for students and engineering teams
+| Area | What I Care About |
+| --- | --- |
+| Platform Engineering | Developer-friendly tooling, reusable pipelines, and self-service infrastructure |
+| DevOps Transformation | Automation strategy, release governance, process maturity, and team enablement |
+| System Architecture | Scalable designs, clean boundaries, reliability, security, and maintainability |
+| Cloud & Infrastructure | AWS, Azure, provisioning, configuration, networking, and operational excellence |
+| Observability | Monitoring, alerting, dashboards, service health, and reliability practices |
+| Training & Mentorship | Practical learning for students, freshers, and engineering teams |
 
 ---
 
@@ -97,16 +145,16 @@ I am a DevOps and Cloud professional from India, focused on building reliable de
 
 ---
 
-## What I Work On
+## What I Design And Build
 
 ```text
-Cloud Infrastructure      -> AWS, Azure, compute, networking, security basics
-CI/CD Automation          -> Jenkins, GitLab CI, TeamCity, release pipelines
-Containers                -> Docker, Kubernetes, Helm-based deployments
-Infrastructure as Code    -> Terraform, Ansible, Packer
-Monitoring                -> Prometheus, Grafana, Zabbix
-Source Control            -> Git, GitHub, GitLab, Bitbucket
-Team Enablement           -> Mentoring, documentation, training, process improvement
+System Architecture       -> scalable, secure, reliable application and platform designs
+Cloud Infrastructure      -> AWS, Azure, compute, networking, access, and security foundations
+CI/CD Automation          -> Jenkins, GitLab CI, TeamCity, release pipelines, and governance
+Containers                -> Docker, Kubernetes, Helm-based deployments, and runtime patterns
+Infrastructure as Code    -> Terraform, Ansible, Packer, provisioning, and configuration
+Monitoring                -> Prometheus, Grafana, Zabbix, metrics, alerts, and dashboards
+Team Enablement           -> mentoring, tutoring, documentation, training, and process maturity
 ```
 
 ---
@@ -114,23 +162,27 @@ Team Enablement           -> Mentoring, documentation, training, process improve
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devops-surya&show_icons=true&theme=github_dark&hide_border=true" alt="Surya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devops-surya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22C55E&text_color=E5E7EB" alt="Teja MVS GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devops-surya&theme=github-dark-blue&hide_border=true" alt="Surya's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devops-surya&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=F97316&currStreakLabel=22D3EE" alt="Teja MVS GitHub streak" />
 </p>
 
 ---
 
 ## Connect
 
-I enjoy helping people understand DevOps and cloud through practical examples, real-world workflows, and hands-on learning.
+I enjoy mentoring engineers, tutoring DevOps learners, and helping teams design better systems, stronger platforms, and smoother delivery pipelines.
 
 - Email: **venkatasuryamaddula@gmail.com**
 - LinkedIn: [Teja MVS](https://www.linkedin.com/in/tejamvs/)
 - YouTube: [DevOps Learning](https://bit.ly/3ecN8l5)
 
-<p align="center">
-  <strong>Building better platforms, stronger teams, and smoother delivery pipelines.</strong>
-</p>
+<div align="center">
+
+### Building better systems, better platforms, and better engineering teams.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22C55E,50:06B6D4,100:2563EB" alt="Footer wave" />
+
+</div>
