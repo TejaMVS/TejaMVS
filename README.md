@@ -1,39 +1,136 @@
-<h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center">A passionate Devops and Cloud Instructor from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi, I'm Surya</h1>
+<h3 align="center">DevOps & Cloud Lead | Instructor | Platform Engineering Enthusiast</h3>
 
-
-- 🌱 Always Interested in learning **New Technologies**
-
-- 💬 Ask me about **Devops & Cloud**
-
-- 📫 How to reach me **devopssurya225@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=" https://bit.ly/3ecN8l5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=" https://bit.ly/3ecN8l5" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:venkatasuryamaddula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-venkatasuryamaddula%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/tejamvs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Teja%20MVS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://bit.ly/3ecN8l5" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-DevOps%20Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
-### Devops Stack
-<p align="left"> <img src="https://banner2.cleanpng.com/20180607/esv/kisspng-apache-maven-apache-ant-gradle-apache-http-server-apache-maven-5b194e571b97f1.295739891528385111113.jpg" alt="maven" title="Maven" width="40" height="40"/> <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="NPM" title="NPM" width="40" height="40"/>         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.plutora.com/wp-content/uploads/2018/08/teamcity.png" alt="Teamcity" title="Teamcity" width="40" height="40"/> <img src="https://www.almtoolbox.com/blog/wp-content/uploads//2018/02/gitlab-logo-purple-1.jpg" alt="GitLab" title="GitLab" width="40" height="40"/>          <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" title="Ansible" width="40" height="40"/>       <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://media.trustradius.com/product-logos/M0/Qm/14A3HOAGB1LD.PNG" alt="Packer" title="Packer" width="40" height="40"/>         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VnWqIykA_K69cw2noleJly3Y01ejKwVkkMRCJWONaorPZOHcMquEM4HetJbDXHX6qpg&usqp=CAU" alt="Jfrog" title="Jfrog" width="40" height="40"/>  <img src="https://seekvectorlogo.com/wp-content/uploads/2019/03/inedo-proget-vector-logo-small.png" alt="Proget" title="Proget" width="40" height="40"/>        <img src="https://www.logolynx.com/images/logolynx/89/891729651d169fe5627ad2e67241eec9.jpeg" alt="zabbix" title="zabbix" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-RiOKakl9RTQ2-ly3h_NUWMMG3U_PtmPhAE_s5-6Sf5MQtizBhliXtfLmEyDmFD04-k&usqp=CAU" alt="Promotheus" title="Promotheus" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" alt="Grafana" title="Grafana" width="40" height="40"/>           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>           <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bashscript" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="AnsibleScripting" title="AnsibleScripting" width="40" height="40"/>              <img src="https://icon2.cleanpng.com/20180326/xiw/kisspng-visual-studio-code-microsoft-visual-studio-source-notice-5ab888a482caf8.8804624115220430445357.jpg" alt="VSC" title="VisualStudioCode" width="40" height="40"/>  <img src="https://joshmccarty.com/wp-content/uploads/2016/11/gwindows_logo.png" alt="Gitbash" title="Gitbash" width="40" height="40"/> <img src="https://designlogovector.com/wp-content/uploads/2022/02/jira-logo-svg.jpg" alt="Jira" title="Jira" width="40" height="40"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCNmTNQGhrmpXUaQ6ZzjuwE6UMM9EoDKbaPD2PREf44ZMtOlLclzhy7woHlNrhtmNKk8&usqp=CAU" alt="Rally" title="Rally" width="40" height="40"/>  </p> 
+---
 
-### SCM Tools
-<p align="left"> <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=s180-rw" alt="git" title="git" width="40" height="40"/> <img src="https://poeditor.com/blog/wp-content/uploads/2014/06/bitbucket-logo.png" alt="Bitbucket" title="BitBucket" width="40" height="40"/>  <img src="https://www.almtoolbox.com/blog/wp-content/uploads//2018/02/gitlab-logo-purple-1.jpg" alt="GitLab" title="GitLab" width="40" height="40"/>  </p>
+## About Me
 
+I am a DevOps and Cloud professional from India, focused on building reliable delivery pipelines, cloud infrastructure, automation-first workflows, and practical learning experiences for engineering teams.
 
-### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+- Leading and mentoring teams around DevOps, CI/CD, cloud, containers, and infrastructure automation
+- Designing scalable, secure, and repeatable deployment practices
+- Helping engineers move from manual operations to automated platform workflows
+- Always learning and sharing modern cloud-native technologies
+- Open to discussions on DevOps, Cloud, Kubernetes, CI/CD, Infrastructure as Code, and monitoring
 
+---
 
-### Cloud Providers
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>  </p>
+## Leadership Focus
 
+- **Platform Engineering:** Developer-friendly tooling, reusable pipelines, and self-service infrastructure
+- **DevOps Transformation:** Process maturity, automation strategy, release governance, and team enablement
+- **Cloud & Infrastructure:** Scalable cloud architecture, provisioning, configuration, and operational excellence
+- **Observability:** Monitoring, alerting, metrics, dashboards, and service reliability practices
+- **Training & Mentorship:** Practical DevOps and cloud learning for students and engineering teams
 
+---
 
+## Tech Stack
 
+### Cloud Platforms
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+### DevOps & CI/CD
 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+### Containers & Orchestration
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
+### Infrastructure as Code & Automation
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Source Control & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Artifact Management
+
+![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
+![Sonatype Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
+![ProGet](https://img.shields.io/badge/ProGet-3B4D61?style=for-the-badge)
+
+### Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+
+### Operating Systems & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## What I Work On
+
+```text
+Cloud Infrastructure      -> AWS, Azure, compute, networking, security basics
+CI/CD Automation          -> Jenkins, GitLab CI, TeamCity, release pipelines
+Containers                -> Docker, Kubernetes, Helm-based deployments
+Infrastructure as Code    -> Terraform, Ansible, Packer
+Monitoring                -> Prometheus, Grafana, Zabbix
+Source Control            -> Git, GitHub, GitLab, Bitbucket
+Team Enablement           -> Mentoring, documentation, training, process improvement
+```
+
+---
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devops-surya&show_icons=true&theme=github_dark&hide_border=true" alt="Surya's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devops-surya&theme=github-dark-blue&hide_border=true" alt="Surya's GitHub streak" />
+</p>
+
+---
+
+## Connect
+
+I enjoy helping people understand DevOps and cloud through practical examples, real-world workflows, and hands-on learning.
+
+- Email: **venkatasuryamaddula@gmail.com**
+- LinkedIn: [Teja MVS](https://www.linkedin.com/in/tejamvs/)
+- YouTube: [DevOps Learning](https://bit.ly/3ecN8l5)
+
+<p align="center">
+  <strong>Building better platforms, stronger teams, and smoother delivery pipelines.</strong>
+</p>
