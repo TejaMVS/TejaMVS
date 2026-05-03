@@ -161,13 +161,28 @@ Team Enablement           -> mentoring, tutoring, documentation, training, and p
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devops-surya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22C55E&text_color=E5E7EB" alt="Teja MVS GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devops-surya&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=F97316&currStreakLabel=22D3EE" alt="Teja MVS GitHub streak" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:020617,45:0F766E,100:2563EB&text=GitHub%20Engineering%20Snapshot&fontColor=FFFFFF&fontSize=28&fontAlignY=45&desc=Open%20source%20activity%20%7C%20DevOps%20learning%20%7C%20Platform%20engineering&descSize=14&descAlignY=72" alt="GitHub Engineering Snapshot" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devops-surya&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=14&bg_color=30,020617,111827,0F766E&title_color=67E8F9&text_color=F8FAFC&icon_color=FACC15&rank_icon=github&ring_color=22C55E" alt="Teja MVS GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=devops-surya&hide_border=true&border_radius=14&background=30%2C020617%2C111827%2C164E63&stroke=334155&ring=22C55E&fire=F97316&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" alt="Teja MVS GitHub streak" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devops-surya&layout=compact&hide_border=true&border_radius=14&bg_color=30,020617,111827,1E3A8A&title_color=67E8F9&text_color=F8FAFC" alt="Teja MVS most used languages" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=devops-surya&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=3" alt="Teja MVS GitHub trophies" />
+
+<br />
+<br />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devops-surya&bg_color=020617&color=E5E7EB&line=22C55E&point=67E8F9&area=true&area_color=0F766E&hide_border=true&radius=14&custom_title=Contribution%20Activity" alt="Teja MVS contribution activity graph" />
+
+</div>
 
 ---
 
