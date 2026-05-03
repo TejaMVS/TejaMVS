@@ -3,11 +3,11 @@
 <img src="./assets/professional-header.svg" alt="Teja MVS - DevOps & Cloud Leader" width="320" />
 
 
-<h1>Hi, I’m <strong>Teja MVS</strong></h1>
+<h1>DevOps & Cloud Leader</h1>
 
-<p>DevOps Leader · Cloud Architect · AI & Automation Innovator</p>
+<p><strong>Teja MVS</strong> delivers scalable platforms, reliable delivery pipelines, and modern engineering systems.</p>
 
-<p>Building scalable platforms, reliable delivery pipelines, and modern engineering systems for high-performing teams.</p>
+<p>Cloud architect, automation innovator, and mentor for high-performing engineering teams.</p>
 
 <p>
   <a href="https://github.com/devops-surya" target="_blank">
