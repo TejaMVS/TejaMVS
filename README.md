@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:111827,45:2563EB,100:14B8A6&text=Teja%20MVS&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Technical%20Team%20Lead%20%7C%20System%20Design%20%7C%20DevOps%20Architecture&descAlignY=57&descSize=18" alt="Teja MVS - Technical Team Lead" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:E0F2FE,45:93C5FD,100:99F6E4&text=Teja%20MVS&fontColor=0F172A&fontSize=62&fontAlignY=36&desc=Technical%20Team%20Lead%20%7C%20System%20Design%20%7C%20DevOps%20Architecture&descAlignY=57&descSize=18&descColor=334155" alt="Teja MVS - Technical Team Lead" />
 
 ### Technical Team Lead | 10+ Years Experience
 
@@ -21,10 +21,10 @@ I love designing systems, building scalable architecture, mentoring engineers, a
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Architecture-2563EB?style=flat-square" alt="System Design and Architecture" />
-  <img src="https://img.shields.io/badge/Passion-Mentoring%20%26%20Tutoring-0F766E?style=flat-square" alt="Mentoring and Tutoring" />
-  <img src="https://img.shields.io/badge/Strength-DevOps%20Transformation-14B8A6?style=flat-square" alt="DevOps Transformation" />
-  <img src="https://img.shields.io/badge/Mindset-Automation%20First-111827?style=flat-square" alt="Automation First" />
+  <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Architecture-3B82F6?style=flat-square" alt="System Design and Architecture" />
+  <img src="https://img.shields.io/badge/Passion-Mentoring%20%26%20Tutoring-14B8A6?style=flat-square" alt="Mentoring and Tutoring" />
+  <img src="https://img.shields.io/badge/Strength-DevOps%20Transformation-06B6D4?style=flat-square" alt="DevOps Transformation" />
+  <img src="https://img.shields.io/badge/Mindset-Automation%20First-64748B?style=flat-square" alt="Automation First" />
 </p>
 
 </div>
@@ -120,6 +120,6 @@ I enjoy mentoring engineers, tutoring DevOps learners, and helping teams design 
 
 ### Building better systems, better platforms, and better engineering teams.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22C55E,50:06B6D4,100:2563EB" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:BAE6FD,50:99F6E4,100:DBEAFE" alt="Footer wave" />
 
 </div>
