@@ -96,8 +96,8 @@ I enjoy designing scalable systems, building reliable DevOps platforms, simplify
 
 | Item | Details |
 | --- | --- |
-| Profile Name | **Teja MVS** |
-| GitHub Username | [`devops-surya`](https://github.com/devops-surya) |
+| Profile Name | **TejaMVS** |
+| GitHub Username | [`TejaMVS`](https://github.com/TejaMVS) |
 | Repository Focus | DevOps learning, platform engineering, CI/CD, automation, cloud infrastructure, and backend engineering |
 | Engineering Theme | Reliable systems, clean delivery pipelines, production-ready automation, and practical learning |
 
