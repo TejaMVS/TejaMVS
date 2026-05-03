@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:E0F2FE,45:93C5FD,100:99F6E4&text=Teja%20MVS&fontColor=0F172A&fontSize=62&fontAlignY=36&desc=Technical%20Team%20Lead%20%7C%20System%20Design%20%7C%20DevOps%20Architecture&descAlignY=57&descSize=18&descColor=334155" alt="Teja MVS - Technical Team Lead" />
+<img src="./assets/professional-header.svg" alt="Teja MVS - Technical Team Lead" />
 
 ### Technical Team Lead | 10+ Years Experience
 
 #### DevOps Architecture | Cloud Platforms | System Design | Mentor / Tutor
 
-I love designing systems, building scalable architecture, mentoring engineers, and creating reliable DevOps platforms.
+I love designing systems, building scalable architecture, mentoring engineers, creating reliable DevOps platforms, and exploring AI agent workflows with Python backend engineering.
 
 <p>
   <a href="mailto:venkatasuryamaddula@gmail.com">
@@ -24,6 +24,8 @@ I love designing systems, building scalable architecture, mentoring engineers, a
   <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Architecture-3B82F6?style=flat-square" alt="System Design and Architecture" />
   <img src="https://img.shields.io/badge/Passion-Mentoring%20%26%20Tutoring-14B8A6?style=flat-square" alt="Mentoring and Tutoring" />
   <img src="https://img.shields.io/badge/Strength-DevOps%20Transformation-06B6D4?style=flat-square" alt="DevOps Transformation" />
+  <img src="https://img.shields.io/badge/AI-AI%20Agents-8B5CF6?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%26%20OOP-22C55E?style=flat-square" alt="Python Backend and OOP" />
   <img src="https://img.shields.io/badge/Mindset-Automation%20First-64748B?style=flat-square" alt="Automation First" />
 </p>
 
@@ -49,6 +51,7 @@ I am a DevOps and Cloud professional from India with 10+ years of experience in 
 
 - Technical Team Lead with strong ownership of delivery platforms and engineering enablement
 - Mentor and tutor for DevOps, Cloud, Kubernetes, CI/CD, automation, and infrastructure practices
+- Experience and interest in AI agents, Python backend development, and object-oriented programming practices
 - Passionate about system design, architecture design, scalable platforms, and clean operational models
 - Focused on secure, repeatable, production-ready infrastructure and deployment workflows
 - Open to discussions on DevOps, Cloud, Kubernetes, CI/CD, Infrastructure as Code, monitoring, and architecture
@@ -64,6 +67,7 @@ I am a DevOps and Cloud professional from India with 10+ years of experience in 
 | System Architecture | Scalable designs, clean boundaries, reliability, security, and maintainability |
 | Cloud & Infrastructure | AWS, Azure, provisioning, configuration, networking, and operational excellence |
 | Observability | Monitoring, alerting, dashboards, service health, and reliability practices |
+| AI & Backend Engineering | AI agent workflows, Python backend services, OOP design, APIs, and automation helpers |
 | Training & Mentorship | Practical learning for students, freshers, and engineering teams |
 
 ---
@@ -73,6 +77,7 @@ I am a DevOps and Cloud professional from India with 10+ years of experience in 
 | Category | Tools |
 | --- | --- |
 | Cloud Platforms | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| AI & Backend | ![AI Agents](https://img.shields.io/badge/AI%20Agents-8B5CF6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-22C55E?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend%20APIs-0F766E?style=flat-square) |
 | DevOps & CI/CD | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) |
 | Containers & Orchestration | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
 | Infrastructure as Code & Automation | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
@@ -92,6 +97,8 @@ I am a DevOps and Cloud professional from India with 10+ years of experience in 
 | CI/CD Automation | Jenkins, GitLab CI, TeamCity, release pipelines, and governance |
 | Containers | Docker, Kubernetes, Helm-based deployments, and runtime patterns |
 | Infrastructure as Code | Terraform, Ansible, Packer, provisioning, and configuration |
+| AI Agent Workflows | AI-assisted automation, agent orchestration concepts, and productivity workflows |
+| Python Backend & OOP | Backend services, API design, reusable classes, object-oriented design, and automation utilities |
 | Monitoring | Prometheus, Grafana, Zabbix, metrics, alerts, and dashboards |
 | Team Enablement | Mentoring, tutoring, documentation, training, and process maturity |
 
@@ -101,7 +108,8 @@ I am a DevOps and Cloud professional from India with 10+ years of experience in 
 
 | GitHub Area | Focus |
 | --- | --- |
-| Profile | [devops-surya](https://github.com/devops-surya) |
+| Profile | [Teja MVS](https://github.com/devops-surya) |
+| GitHub Username | `devops-surya` |
 | Repository Focus | DevOps learning, platform engineering, CI/CD, automation, and cloud infrastructure |
 | Knowledge Sharing | Practical examples, mentoring material, and real-world engineering workflows |
 | Engineering Theme | Reliable systems, clean delivery pipelines, and production-ready automation |

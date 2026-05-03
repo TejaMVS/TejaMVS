@@ -1,0 +1,49 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Teja MVS Professional Profile Header</title>
+  <desc id="desc">Client-facing professional profile header for Teja MVS, Technical Team Lead in DevOps architecture, cloud platforms, and system design.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="0.48" stop-color="#EFF6FF"/>
+      <stop offset="1" stop-color="#CCFBF1"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="64" y1="52" x2="936" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="0.45" stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <filter id="shadow" x="30" y="24" width="940" height="272" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#0F172A" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .name { font: 900 76px 'Segoe UI', Arial, sans-serif; fill: #0F172A; letter-spacing: 0; }
+      .role { font: 800 22px 'Segoe UI', Arial, sans-serif; fill: #1E40AF; letter-spacing: 0; }
+      .desc { font: 600 17px 'Segoe UI', Arial, sans-serif; fill: #334155; letter-spacing: 0; }
+      .chip { font: 800 14px 'Segoe UI', Arial, sans-serif; fill: #FFFFFF; letter-spacing: 0; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="884" cy="70" r="128" fill="#38BDF8" opacity="0.17"/>
+  <circle cx="86" cy="282" r="150" fill="#14B8A6" opacity="0.13"/>
+
+  <g filter="url(#shadow)">
+    <rect x="64" y="44" width="872" height="228" rx="26" fill="#FFFFFF"/>
+    <rect x="64.5" y="44.5" width="871" height="227" rx="25.5" stroke="#CBD5E1"/>
+    <rect x="64" y="44" width="872" height="12" rx="6" fill="url(#bar)"/>
+
+    <text x="104" y="135" class="name">Teja MVS</text>
+    <text x="108" y="178" class="role">Technical Team Lead | 10+ Years Experience</text>
+    <text x="108" y="213" class="desc">DevOps Architecture | Cloud Platforms | System Design | AI Agents</text>
+    <text x="108" y="242" class="desc">Python backend, OOP practices, reliable platforms, and production-ready automation.</text>
+
+    <rect x="746" y="82" width="122" height="30" rx="15" fill="#2563EB"/>
+    <text x="776" y="102" class="chip">DevOps</text>
+    <rect x="746" y="122" width="122" height="30" rx="15" fill="#0F766E"/>
+    <text x="778" y="142" class="chip">Cloud</text>
+    <rect x="746" y="162" width="122" height="30" rx="15" fill="#14B8A6"/>
+    <text x="764" y="182" class="chip">Architecture</text>
+    <rect x="746" y="202" width="122" height="30" rx="15" fill="#8B5CF6"/>
+    <text x="770" y="222" class="chip">AI Agents</text>
+  </g>
+</svg>
