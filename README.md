@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/professional-header.svg" alt="Teja MVS - Technical Team Lead" />
+<img src="./assets/banner.png" alt="Teja MVS - Technical Team Lead" />
 
 <br />
 
