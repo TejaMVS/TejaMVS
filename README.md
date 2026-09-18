@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Teja MVS - Technical Team Lead" />
+<img src="./assets/banner1.png" alt="Teja MVS - Technical Team Lead" />
 
 <br />
 
@@ -16,13 +16,6 @@
 
 <br />
 <br />
-
-<img src="https://img.shields.io/badge/System%20Design-2563EB?style=flat-square" alt="System Design" />
-<img src="https://img.shields.io/badge/DevOps%20Architecture-0F766E?style=flat-square" alt="DevOps Architecture" />
-<img src="https://img.shields.io/badge/Cloud%20Platforms-0284C7?style=flat-square" alt="Cloud Platforms" />
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" alt="AI Agents" />
-<img src="https://img.shields.io/badge/Python%20Backend-22C55E?style=flat-square" alt="Python Backend" />
-<img src="https://img.shields.io/badge/Mentoring-F97316?style=flat-square" alt="Mentoring" />
 
 </div>
 
